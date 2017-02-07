@@ -4,7 +4,7 @@ import java.util.Map;
 /**
  * Desc here
  *
- * @author Wang Huisong(wanghuisong@le.com)
+ * @author Wang Huisong(ggcoke@foxmail.com)
  */
 public class WordPattern {
     public boolean wordPattern(String pattern, String str) {

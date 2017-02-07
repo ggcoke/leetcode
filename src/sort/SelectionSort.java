@@ -3,7 +3,7 @@ package sort;
 /**
  * Desc here
  *
- * @author Wang Huisong(wanghuisong@le.com)
+ * @author Wang Huisong(ggcoke@foxmail.com)
  */
 public class SelectionSort<T extends Comparable> extends BaseSort<T> {
     @Override

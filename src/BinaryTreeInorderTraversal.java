@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Desc here
  *
- * @author Wang Huisong(wanghuisong@le.com)
+ * @author Wang Huisong(ggcoke@foxmail.com)
  */
 public class BinaryTreeInorderTraversal {
 

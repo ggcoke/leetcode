@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * Desc here
  *
- * @author Wang Huisong(wanghuisong@le.com)
+ * @author Wang Huisong(ggcoke@foxmail.com)
  */
 public class FindTheDifference {
     public static char findTheDifference(String s, String t) {

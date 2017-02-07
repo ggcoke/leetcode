@@ -3,7 +3,7 @@ package sort;
 /**
  * Desc here
  *
- * @author Wang Huisong(wanghuisong@le.com)
+ * @author Wang Huisong(ggcoke@foxmail.com)
  */
 public abstract class BaseSort<T extends Comparable> {
     public abstract void sort(T[] src);

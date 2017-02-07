@@ -15,7 +15,7 @@ import java.util.List;
  * <p>
  * Output: [-34, -14, -10, -10, 10]
  *
- * @author Wang Huisong(wanghuisong@le.com)
+ * @author Wang Huisong(ggcoke@foxmail.com)
  */
 public class DifferentWaystoAddParentheses {
     public List<Integer> diffWaysToCompute(String input) {

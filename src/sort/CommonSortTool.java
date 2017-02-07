@@ -3,7 +3,7 @@ package sort;
 /**
  * Desc here
  *
- * @author Wang Huisong(wanghuisong@le.com)
+ * @author Wang Huisong(ggcoke@foxmail.com)
  */
 public class CommonSortTool<T extends Comparable> {
     private static Integer[] src = {10, 5, 9, 7, 1, 8, 2, 15, 3};

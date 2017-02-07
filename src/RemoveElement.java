@@ -1,7 +1,7 @@
 /**
  * Desc here
  *
- * @author Wang Huisong(wanghuisong@le.com)
+ * @author Wang Huisong(ggcoke@foxmail.com)
  */
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {
