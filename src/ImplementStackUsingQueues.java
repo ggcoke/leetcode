@@ -4,7 +4,7 @@ import java.util.Queue;
 /**
  * https://leetcode.com/problems/implement-stack-using-queues/
  *
- * @author Wang Huisong(wanghuisong@le.com)
+ * @author Wang Huisong(ggcoke@foxmail.com)
  */
 public class ImplementStackUsingQueues {
     private Queue<Integer> inQueue;

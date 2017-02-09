@@ -3,7 +3,7 @@ import java.util.Stack;
 /**
  * https://leetcode.com/problems/implement-queue-using-stacks/
  *
- * @author Wang Huisong(wanghuisong@le.com)
+ * @author Wang Huisong(ggcoke@foxmail.com)
  */
 public class ImplementQueueUsingStacks {
     private Stack<Integer> inStack = new Stack<>();
