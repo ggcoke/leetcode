@@ -1,7 +1,7 @@
 /**
  * https://leetcode.com/problems/single-number/
  *
- * @author Wang Huisong(wanghuisong@le.com)
+ * @author Wang Huisong(ggcoke@foxmail.com)
  */
 public class SingleNumber {
     public static int singleNumber(int[] nums) {
